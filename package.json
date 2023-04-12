@@ -4,7 +4,7 @@
     "bootstrap": "^3.4.1",
     "bootstrap-social": "^5.1.1",
     "echarts": "^4.2.1",
-    "eds-ui": "github:jaggle/eds-ui",
+    "eds-ui": "github:jjsty1e/eds-ui",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "jquery-pjax": "^2.0.1",
